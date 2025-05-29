@@ -1,3 +1,1 @@
-# 📁 docs/
-
-(Valgfritt) Dokumentasjon for GitHub Pages eller øvrig bruk.
+[README.md](https://github.com/user-attachments/files/20505548/README.md)
